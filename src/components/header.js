@@ -25,14 +25,14 @@ const styles = StyleSheet.create({
 		height: 60,
 		paddingTop: 15,
 		shadowColor: '#000',
-		shadoowOffset: {with: 0, height: 2},
+		shadowOffset: {with: 0, height: 2},
 		shadowOpacity: 0.2,
 		elevation: 2,
 		position: 'relative'	
 
 	},
 	textStyle: {
-		fontSiz: 20
+		fontSize: 20
 	},
 });
 
