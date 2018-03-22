@@ -9,7 +9,7 @@ const CardSection = (props) =>{
 		)
 }
 
-const style = StyleSheet.create({
+const styles = StyleSheet.create({
 	containerStyle:{
 		borderBottomWidth: 1,
 		padding: 5,

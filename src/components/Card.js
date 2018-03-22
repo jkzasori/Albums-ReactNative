@@ -11,10 +11,10 @@ const Card = (props) => {
 
 const styles = StyleSheet.create({
 	containerStyle: {
-		boderWidth: 1,
+		borderWidth: 1,
 		borderRadius: 2,
 		borderColor: '#ddd',
-		boderBottomWidth: 0,
+		borderBottomWidth: 0,
 		shadowColor: '#000',
 		shadowOffset: {width: 0, height: 2},
 		shadowOpacity: 0.1,
